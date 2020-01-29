@@ -1,0 +1,113 @@
+[[libdivsufsort]]
+arch = "i686"
+git-tree-sha1 = "58451660beccd9d99078264b2dcdc7744140cb53"
+libc = "glibc"
+os = "linux"
+
+    [[libdivsufsort.download]]
+    sha256 = "bb500673529938413ab27cb44e39b2dd90425916775181f82abc29b5194427fc"
+    url = "https://github.com/JuliaBinaryWrappers/libdivsufsort_jll.jl/releases/download/libdivsufsort-v2.0.2+0/libdivsufsort.v2.0.2.i686-linux-gnu.tar.gz"
+[[libdivsufsort]]
+arch = "i686"
+git-tree-sha1 = "8435c0ce13a8464ef9b12b8c07236d8617e723ed"
+libc = "musl"
+os = "linux"
+
+    [[libdivsufsort.download]]
+    sha256 = "72d0f733110b41b004bddefce9e0f905b8dd1ed92f7afa4b76b640e39055f0da"
+    url = "https://github.com/JuliaBinaryWrappers/libdivsufsort_jll.jl/releases/download/libdivsufsort-v2.0.2+0/libdivsufsort.v2.0.2.i686-linux-musl.tar.gz"
+[[libdivsufsort]]
+arch = "x86_64"
+git-tree-sha1 = "c3e82b0d8a5d42405246a2e7e814bbea77a25596"
+os = "macos"
+
+    [[libdivsufsort.download]]
+    sha256 = "a21e4b0fdb413895c469b5ad247a7c05c2589666dc4c383e2d73ccf6bb871b3a"
+    url = "https://github.com/JuliaBinaryWrappers/libdivsufsort_jll.jl/releases/download/libdivsufsort-v2.0.2+0/libdivsufsort.v2.0.2.x86_64-apple-darwin14.tar.gz"
+[[libdivsufsort]]
+arch = "powerpc64le"
+git-tree-sha1 = "c23093e080cfbe0afa3bb7e0cae363edf634fff4"
+libc = "glibc"
+os = "linux"
+
+    [[libdivsufsort.download]]
+    sha256 = "8d768102dda460c8380880c73a13bd0d4afd483bc3459356be83912cb6234578"
+    url = "https://github.com/JuliaBinaryWrappers/libdivsufsort_jll.jl/releases/download/libdivsufsort-v2.0.2+0/libdivsufsort.v2.0.2.powerpc64le-linux-gnu.tar.gz"
+[[libdivsufsort]]
+arch = "aarch64"
+git-tree-sha1 = "3be30b8808da648e9a4e94a18383c9d95bd8a4a9"
+libc = "glibc"
+os = "linux"
+
+    [[libdivsufsort.download]]
+    sha256 = "a7dda43b079e2715aa097fd1231986b65243863d22251c2091ddf9bd439ebafd"
+    url = "https://github.com/JuliaBinaryWrappers/libdivsufsort_jll.jl/releases/download/libdivsufsort-v2.0.2+0/libdivsufsort.v2.0.2.aarch64-linux-gnu.tar.gz"
+[[libdivsufsort]]
+arch = "x86_64"
+git-tree-sha1 = "8a534e0126c634793d2a741256cae3dc5507fb83"
+libc = "musl"
+os = "linux"
+
+    [[libdivsufsort.download]]
+    sha256 = "22447a4ba1aef40b221d3d58be105f677f9d0418ce3f9e083b82e1a27a4f6fbc"
+    url = "https://github.com/JuliaBinaryWrappers/libdivsufsort_jll.jl/releases/download/libdivsufsort-v2.0.2+0/libdivsufsort.v2.0.2.x86_64-linux-musl.tar.gz"
+[[libdivsufsort]]
+arch = "aarch64"
+git-tree-sha1 = "8920cbb9936ab39bd20a1ba52b91d259ba0fa75d"
+libc = "musl"
+os = "linux"
+
+    [[libdivsufsort.download]]
+    sha256 = "e76972e9df5fcb3ef16aa603900c21ab3cc5119045e450a2b7bdf96b56e5a0e1"
+    url = "https://github.com/JuliaBinaryWrappers/libdivsufsort_jll.jl/releases/download/libdivsufsort-v2.0.2+0/libdivsufsort.v2.0.2.aarch64-linux-musl.tar.gz"
+[[libdivsufsort]]
+arch = "armv7l"
+git-tree-sha1 = "148760afb84322f25cbef7469489862da7817135"
+libc = "musl"
+os = "linux"
+
+    [[libdivsufsort.download]]
+    sha256 = "966f890dcedcb93e485a73d55cdbd1e07b7e7d3d374ff9d728f94b0bd0a1d5ad"
+    url = "https://github.com/JuliaBinaryWrappers/libdivsufsort_jll.jl/releases/download/libdivsufsort-v2.0.2+0/libdivsufsort.v2.0.2.arm-linux-musleabihf.tar.gz"
+[[libdivsufsort]]
+arch = "i686"
+git-tree-sha1 = "456c51f314c61a03961b45edf698f3dfdd464af7"
+os = "windows"
+
+    [[libdivsufsort.download]]
+    sha256 = "ea1eea0d32d4c924525ec4f993d8073ec0503a25ec69384920716b23b88a9af2"
+    url = "https://github.com/JuliaBinaryWrappers/libdivsufsort_jll.jl/releases/download/libdivsufsort-v2.0.2+0/libdivsufsort.v2.0.2.i686-w64-mingw32.tar.gz"
+[[libdivsufsort]]
+arch = "x86_64"
+git-tree-sha1 = "f9d5fedc95fdc28c07c9ed019c2ad2e57d3bd815"
+os = "freebsd"
+
+    [[libdivsufsort.download]]
+    sha256 = "e425448f250cf8e1d51c9ab9690936a73295a4ee57db7c035facc71ce5aeb066"
+    url = "https://github.com/JuliaBinaryWrappers/libdivsufsort_jll.jl/releases/download/libdivsufsort-v2.0.2+0/libdivsufsort.v2.0.2.x86_64-unknown-freebsd11.1.tar.gz"
+[[libdivsufsort]]
+arch = "armv7l"
+git-tree-sha1 = "e3f8a981426fa701db268d192490e07505e3622c"
+libc = "glibc"
+os = "linux"
+
+    [[libdivsufsort.download]]
+    sha256 = "c4600987445de0477eec97d22e6a19234fd4678e0b6fa7c3ef69bc0abf9a6c87"
+    url = "https://github.com/JuliaBinaryWrappers/libdivsufsort_jll.jl/releases/download/libdivsufsort-v2.0.2+0/libdivsufsort.v2.0.2.arm-linux-gnueabihf.tar.gz"
+[[libdivsufsort]]
+arch = "x86_64"
+git-tree-sha1 = "4b38802125aaec6df710a17a872d49ad8813441a"
+libc = "glibc"
+os = "linux"
+
+    [[libdivsufsort.download]]
+    sha256 = "087b731b272cc30254bdf3b05275e644d6731c7ef42a3feafa6819d480375d4f"
+    url = "https://github.com/JuliaBinaryWrappers/libdivsufsort_jll.jl/releases/download/libdivsufsort-v2.0.2+0/libdivsufsort.v2.0.2.x86_64-linux-gnu.tar.gz"
+[[libdivsufsort]]
+arch = "x86_64"
+git-tree-sha1 = "3eab4f740f53b04ff47d44d60efc2b19868fe793"
+os = "windows"
+
+    [[libdivsufsort.download]]
+    sha256 = "5ba47934f94ac4e20f6006126cbb4d4cbe12fe56e9e0bb49ee199ffdcd5c92f3"
+    url = "https://github.com/JuliaBinaryWrappers/libdivsufsort_jll.jl/releases/download/libdivsufsort-v2.0.2+0/libdivsufsort.v2.0.2.x86_64-w64-mingw32.tar.gz"
